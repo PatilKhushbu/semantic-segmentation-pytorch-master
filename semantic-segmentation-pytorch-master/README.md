@@ -12,9 +12,8 @@ If you simply want to play with our demo, please try this link: http://scenesegm
 All pretrained models can be found at:
 http://sceneparsing.csail.mit.edu/model/pytorch
 
-Semantic Segmentation using CNN<img src="./Semantic Segmentation using CNN/teaser/ADE_val_00000278.png" width="900"/>
-<img src="./Semantic Segmentation using CNN/teaser/ADE_val_00001519.png" width="900"/>
-[From left to right: Test Image, Ground Truth, Predicted Result]
+<img src="./teaser/ADE_val_00000278.png" width="900"/>
+<img src="./teaser/ADE_val_00001519.png" width="900"/>
 
 Color encoding of semantic categories can be found here:
 https://docs.google.com/spreadsheets/d/1se8YEtb2detS7OuPE86fXGyD269pMycAWe2mtKUj2W8/edit?usp=sharing
